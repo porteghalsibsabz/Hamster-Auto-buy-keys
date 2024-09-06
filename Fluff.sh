@@ -201,7 +201,7 @@ games[39, name]="Fluff Crusade"
 games[39, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
 games[39, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
 
-games[40, name]="Fluff CHEHEL"
+games[40, name]="Fluff End"
 games[40, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
 games[40, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
 
