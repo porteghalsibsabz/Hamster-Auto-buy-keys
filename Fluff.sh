@@ -49,6 +49,162 @@ games[1, name]="Fluff Crusade"
 games[1, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
 games[1, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
 
+games[2, name]="Fluff Crusade"
+games[2, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[2, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[3, name]="Fluff Crusade"
+games[3, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[3, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[4, name]="Fluff Crusade"
+games[4, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[4, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[5, name]="Fluff Crusade"
+games[5, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[5, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[6, name]="Fluff Crusade"
+games[6, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[6, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[7, name]="Fluff Crusade"
+games[7, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[7, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[8, name]="Fluff Crusade"
+games[8, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[8, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[9, name]="Fluff Crusade"
+games[9, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[9, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[10, name]="Fluff Crusade"
+games[10, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[10, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[11, name]="Fluff Crusade"
+games[11, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[11, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[12, name]="Fluff Crusade"
+games[12, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[12, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[13, name]="Fluff Crusade"
+games[13, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[13, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[14, name]="Fluff Crusade"
+games[14, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[14, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[15, name]="Fluff Crusade"
+games[15, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[15, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[16, name]="Fluff Crusade"
+games[16, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[16, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[17, name]="Fluff Crusade"
+games[17, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[17, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[18, name]="Fluff Crusade"
+games[18, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[18, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[19, name]="Fluff Crusade"
+games[19, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[19, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[20, name]="Fluff Crusade"
+games[20, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[20, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[21, name]="Fluff Crusade"
+games[21, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[21, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[22, name]="Fluff Crusade"
+games[22, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[22, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[23, name]="Fluff Crusade"
+games[23, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[23, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[24, name]="Fluff Crusade"
+games[24, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[24, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[25, name]="Fluff Crusade"
+games[25, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[25, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[26, name]="Fluff Crusade"
+games[26, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[26, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[27, name]="Fluff Crusade"
+games[27, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[27, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[28, name]="Fluff Crusade"
+games[28, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[28, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[29, name]="Fluff Crusade"
+games[29, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[29, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[30, name]="Fluff Crusade"
+games[30, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[30, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[31, name]="Fluff Crusade"
+games[31, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[31, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[32, name]="Fluff Crusade"
+games[32, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[32, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[33, name]="Fluff Crusade"
+games[33, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[33, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[34, name]="Fluff Crusade"
+games[34, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[34, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[35, name]="Fluff Crusade"
+games[35, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[35, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[36, name]="Fluff Crusade"
+games[36, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[36, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[37, name]="Fluff Crusade"
+games[37, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[37, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[38, name]="Fluff Crusade"
+games[38, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[38, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[39, name]="Fluff Crusade"
+games[39, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[39, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
+games[40, name]="Fluff Crusade"
+games[40, appToken]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+games[40, promoId]="112887b0-a8af-4eb2-ac63-d82df78283d9"
+
 # Proxys
 load_proxies() {
 	if [[ -f "$1" ]]; then
